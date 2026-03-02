@@ -1,0 +1,5 @@
+led_display.c:15:6:setTrafficLight	24	static
+led_display.c:27:6:clearAllTrafficLights	8	static
+led_display.c:32:6:display7SEG	16	static
+led_display.c:59:6:fsm_normal_mode	8	static
+led_display.c:130:6:fsm_modify_mode	8	static

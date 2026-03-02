@@ -1,0 +1,2 @@
+input_processing.c:25:6:adjustTrafficTiming	16	static
+input_processing.c:51:6:fsm_for_input_processing	8	static

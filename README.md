@@ -37,8 +37,7 @@ Dự án được tổ chức theo module để dễ dàng bảo trì và mở r
 * **Button Debouncing:** Thuật toán chống rung phím, hỗ trợ nhấn đơn và nhấn giữ để tăng giá trị nhanh.
 
 ## 🎥 Minh họa hoạt động
-* **Video Demo:** [Xem tại đây](https://drive.google.com/file/d/1Iix2whbuMed6j3miu3Ah4dJGnDOB9TL5/
-view?usp=sharing)
+* **Video Demo:** [Xem tại đây](https://drive.google.com/file/d/1Iix2whbuMed6j3miu3Ah4dJGnDOB9TL5/)
 
 ## 👤 Thông tin sinh viên thực hiện
 * **Họ tên:** Nguyễn Anh Thư
